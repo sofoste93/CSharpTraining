@@ -87,6 +87,7 @@ Learning C# by practicing
 >
 >  multiDim[1,1]
 - 5
+- Collection
 > - Generic class
 >  // Managing ordered data with lists;
 > var awesomeSauces = new List<string>();
@@ -155,3 +156,50 @@ System.ArgumentException: An item with the same key has already been added.
 > dictionaryWords["variable"]
 "a container for data"
 > 
+# Flow Control - looping
+  - Testing the assembly
+>
+>  #r "A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.dll"
+> 
+> var test = new CSharpTraining.LoopingCSharp();
+> 
+> test.ForLoop()
+- 4950
+> 
+> test.ForEachLoop()
+> - 25
+> 
+> // successfuly tested the assembly;
+>
+> #r "A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.dll"
+> 
+> var test = new CSharpTraining.LoopingCSharp();
+> 
+> test.DoWhileLoop()
+4950
+> 
+> test.WhileLoop()
+4950
+> 
+> test.ForEachLoop()
+25
+> 
+> test.ForLoop()
+4950
+> 
+> test.GetType()
+[CSharpTraining.LoopingCSharp]
+> 
+> test.ToString()
+"CSharpTraining.LoopingCSharp"
+> 
+> test.GetHashCode()
+22896952
+> 
+> test.Equals()
+(1,6): error CS1501: Keine Überladung für die Equals-Methode nimmt 0 Argumente an.
+> 
+> test.Equals(test)
+true
+> 
+>
