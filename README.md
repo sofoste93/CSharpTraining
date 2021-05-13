@@ -69,4 +69,22 @@ Learning C# by practicing
 > 
 > System.IndexOutOfRangeException: Index was outside the bounds of the array.
 > 
+- Multidimensional array
+- 
+>
+>  var multiDim = new int[3, 4] {
+> {0 ,1, 2, 3},
+> {4, 5, 3, 7},
+> {8, 7, 6, 9}
+> };
+> 
+> multiDim
+> 
+> int[3, 4] { { 0, 1, 2, 3 }, { 4, 5, 3, 7 }, { 8, 7, 6, 9 } }
+> 
+> multiDim[2,3]
+- 9
+>
+>  multiDim[1,1]
+- 5
 >
