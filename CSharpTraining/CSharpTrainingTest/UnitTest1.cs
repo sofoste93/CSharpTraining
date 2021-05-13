@@ -1,6 +1,9 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
+// remember to use required rederencies
+using CSharpTraining;
+
 namespace CSharpTrainingTest
 {
 	/*
@@ -18,6 +21,10 @@ namespace CSharpTrainingTest
 		[TestMethod]
 		public void TestMethod1()
 		{
+			var testInstance = new Class1();
+			var testResult = testInstance.AddTwo(9, 7);
+
+			Assert.AreEqual(16, testResult, "We expect (9 + 7) to be 16");
 		}
 	}
 }
