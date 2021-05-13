@@ -8,6 +8,18 @@ namespace CSharpTraining
 {
 	class FlowControl
 	{
+		// Logical NOT
+		public string IsYourNameNotBruce(string yourName)
+		{
+			if(yourName.ToLower() != "bruce")
+			{
+				return "Can we call you Bruce for the sake of simplicity?";
+			} else
+			{
+				return "G'day Bruce!";
+			}
+		}
+
 		// Compound logic with logical AND
 		public string GradeLetter(int score)
 		{
