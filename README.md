@@ -47,4 +47,19 @@ Learning C# by practicing
 > 
 > Loading context from 'CSharpInteractive.rsp'.
 >
+> var groceryList = new string[4] { "Milk", "Eggs", "Cheese", "Apples" };
+> groceryList[2]
+> "Cheese"
+> 
+> groceryList[3]
+> "Apples"
+> groceryList[4]
+> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+> // error was expected;
+> Array.Resize(ref groceryList, 6);
+> groceryList[4] = "Bread";
+> groceryList[5] = "Soda";
+> groceryList[6] = "Coca"; // error expected;
+> System.IndexOutOfRangeException: Index was outside the bounds of the array.
+> 
 >
