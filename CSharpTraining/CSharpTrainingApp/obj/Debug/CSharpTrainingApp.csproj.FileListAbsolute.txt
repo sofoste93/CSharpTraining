@@ -5,3 +5,7 @@ A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\De
 A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\Debug\CSharpTrainingApp.csproj.CoreCompileInputs.cache
 A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\Debug\CSharpTrainingApp.exe
 A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\Debug\CSharpTrainingApp.pdb
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\bin\Debug\NLog.config
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\bin\Debug\NLog.dll
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\bin\Debug\NLog.xml
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\Debug\CSharpTrainingApp.csproj.CopyComplete

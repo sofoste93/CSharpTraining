@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 // in order to read text in file
 using System.IO;
 
+// use NLog
+using NLog;
+
 namespace CSharpTrainingApp
 {
 	/**
@@ -28,10 +31,16 @@ namespace CSharpTrainingApp
 	*/
 	class Program
 	{
+		// add logging
+		public static Logger logger = LogManager.GetCurrentClassLogger();
+
 		// add a list type to the class
 		public static List<string> Words;
 		static void Main(string[] args)
 		{
+			// logger
+			logger.Trace("The program started");
+
 			// initialize var first
 			Words = new List<string>();
 
@@ -60,11 +69,12 @@ namespace CSharpTrainingApp
 			catch (System.IO.DirectoryNotFoundException dExc)
 			{
 				Console.WriteLine("Couldn't find the directory.");
-
+				logger.Error("The directory was not found." + dExc.Message);
 			}
 			catch(System.IO.FileNotFoundException fExc)
 			{
 				Console.WriteLine("Couldn't find the file.");
+				logger.Error(fExc.Message);
 			}
 			catch(Exception exc)
 			{
