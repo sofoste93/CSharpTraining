@@ -56,10 +56,17 @@ Learning C# by practicing
 > groceryList[4]
 > System.IndexOutOfRangeException: Index was outside the bounds of the array.
 > // error was expected;
+> 
+- Resizing Array
+> 
 > Array.Resize(ref groceryList, 6);
+> 
 > groceryList[4] = "Bread";
+> 
 > groceryList[5] = "Soda";
+> 
 > groceryList[6] = "Coca"; // error expected;
+> 
 > System.IndexOutOfRangeException: Index was outside the bounds of the array.
 > 
 >
