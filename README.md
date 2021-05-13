@@ -69,4 +69,37 @@ Learning C# by practicing
 > 
 > System.IndexOutOfRangeException: Index was outside the bounds of the array.
 > 
+- Multidimensional array
+- 
 >
+>  var multiDim = new int[3, 4] {
+> {0 ,1, 2, 3},
+> {4, 5, 3, 7},
+> {8, 7, 6, 9}
+> };
+> 
+> multiDim
+> 
+> int[3, 4] { { 0, 1, 2, 3 }, { 4, 5, 3, 7 }, { 8, 7, 6, 9 } }
+> 
+> multiDim[2,3]
+- 9
+>
+>  multiDim[1,1]
+- 5
+> - Generic class
+>  // Managing ordered data with lists;
+> var awesomeSauces = new List<string>();
+> 
+// No need to specify the size - it increases 
+> awesomeSauces.Add("Tobasco");
+> awesomeSauces.Add("Cholula");
+> awesomeSauces.Add("Bolonia");
+> awesomeSauces.Add("Bongo");
+> awesomeSauces.Add("Ndolais");
+> 
+> awesomeSauces[4]
+"Ndolais"
+> awesomeSauces[2]
+"Bolonia"
+> 
