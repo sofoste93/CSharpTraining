@@ -103,3 +103,12 @@ Learning C# by practicing
 > awesomeSauces[2]
 "Bolonia"
 > 
+-
+- > // Introduction to LINQ;
+. var listOfNumbers = new int[5] { 1, 3, 5, 7, 9 };
+. listOfNumbers.Sum()
+. 25
+. listOfNumbers.Average()
+. 5
+. listOfNumbers.Where(item => item >= 3)
+. Enumerable.WhereArrayIterator<int> { 3, 5, 7, 9 }
