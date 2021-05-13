@@ -8,6 +8,27 @@ namespace CSharpTraining
 {
 	class FlowControl
 	{
+		public string PrimaryOrSecondary(string color)
+		{
+			var result = "";
+			if (color.ToLower() == "red")
+			{
+				result = "Primary";
+			}
+			else if (color.ToLower() == "blue")
+			{
+				result = "Primary";
+			} else if(color.ToLower() == "yellow")
+			{
+				result = "Primary";
+			} else
+			{
+				result = "Secondary";
+			}
+
+			return result;
+		}
+
 		public bool IsYourFavoriteColorYellow(string color)
 		{
 			return(color.ToLower() == "yellow");
