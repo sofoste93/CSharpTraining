@@ -8,7 +8,26 @@ namespace CSharpTraining
 {
 	class FlowControl
 	{
-		// Compound logic with logical OR & AND
+		// Compound logic with logical AND
+		public string GradeLetter(int score)
+		{
+			if(score > 90)
+			{
+				return "A";
+			} else if(score > 79 && score < 90)
+			{
+				return "B";
+			} else if(score >= 70 && score <= 80)
+			{
+				return "C";
+			} else
+			{
+				return "F";
+			}
+
+		}
+
+		// Compound logic with logical OR
 		public string PrimOrSecondCompound(string color)
 		{
 			if ((color.ToLower() == "red") || (color.ToLower() == "blue") || (color.ToLower() == "yello"))
