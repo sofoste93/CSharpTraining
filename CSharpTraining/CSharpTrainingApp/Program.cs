@@ -8,8 +8,14 @@ namespace CSharpTrainingApp
 {
 	class Program
 	{
+		// add a list type to the class
+		public static List<string> Words;
 		static void Main(string[] args)
 		{
+			Words.Add("Bread"); // make List<> static to use this
+			Words.Add("Milk");
+			Words.Add("Cheese");
+			Words.Add("Soda");
 		}
 	}
 }
