@@ -1,0 +1,7 @@
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\bin\Debug\CSharpTrainingApp.exe.config
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\bin\Debug\CSharpTrainingApp.exe
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\bin\Debug\CSharpTrainingApp.pdb
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\Debug\CSharpTrainingApp.csprojAssemblyReference.cache
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\Debug\CSharpTrainingApp.csproj.CoreCompileInputs.cache
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\Debug\CSharpTrainingApp.exe
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\Debug\CSharpTrainingApp.pdb
