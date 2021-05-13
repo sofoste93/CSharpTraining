@@ -8,6 +8,22 @@ namespace CSharpTraining
 {
 	public class LoopingCSharp
 	{
+		// Managing flow with break and continue
+		public string BreakAndContinue()
+		{
+			var sBuilder = new StringBuilder();
+			var words = new List<string>() { "Bread", "Eggs", "Milk", "Cheese", "Apples" };
+			foreach (var word in words)
+			{
+				if (word.StartsWith("M")) continue; // ..skip everything underneath it and just go back around the loop one more time
+
+				if (word.StartsWith("C")) break;
+
+				sBuilder.AppendLine(word);
+			}
+			return sBuilder.ToString();
+		}
+
 		// do-while Loop
 		public int DoWhileLoop()
 		{
