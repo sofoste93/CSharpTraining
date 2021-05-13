@@ -166,5 +166,40 @@ System.ArgumentException: An item with the same key has already been added.
 > test.ForLoop()
 - 4950
 > 
+> test.ForEachLoop()
+> - 25
+> 
 > // successfuly tested the assembly;
+>
+> #r "A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.dll"
+> 
+> var test = new CSharpTraining.LoopingCSharp();
+> 
+> test.DoWhileLoop()
+4950
+> 
+> test.WhileLoop()
+4950
+> 
+> test.ForEachLoop()
+25
+> 
+> test.ForLoop()
+4950
+> 
+> test.GetType()
+[CSharpTraining.LoopingCSharp]
+> 
+> test.ToString()
+"CSharpTraining.LoopingCSharp"
+> 
+> test.GetHashCode()
+22896952
+> 
+> test.Equals()
+(1,6): error CS1501: Keine Überladung für die Equals-Methode nimmt 0 Argumente an.
+> 
+> test.Equals(test)
+true
+> 
 >
