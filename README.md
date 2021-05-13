@@ -87,6 +87,7 @@ Learning C# by practicing
 >
 >  multiDim[1,1]
 - 5
+- Collection
 > - Generic class
 >  // Managing ordered data with lists;
 > var awesomeSauces = new List<string>();
@@ -155,3 +156,15 @@ System.ArgumentException: An item with the same key has already been added.
 > dictionaryWords["variable"]
 "a container for data"
 > 
+# Flow Control - looping
+  - Testing the assembly
+>
+>  #r "A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.dll"
+> 
+> var test = new CSharpTraining.LoopingCSharp();
+> 
+> test.ForLoop()
+- 4950
+> 
+> // successfuly tested the assembly;
+>
