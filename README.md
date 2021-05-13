@@ -1,8 +1,14 @@
+> # C# Training - Console App
+>
+>![1_Failed_3_Passed](https://user-images.githubusercontent.com/28387985/118198296-e195b400-b450-11eb-9169-0369837f2d9b.PNG)
+>
 # CSharpTraining
 
 Learning C# by practicing
 
-
+>
+>![Test_3_Passed](https://user-images.githubusercontent.com/28387985/118198324-efe3d000-b450-11eb-9892-fd5adcd8c6fd.PNG)
+>
 >
 > Wanna learn C# ?
 > This is a result of a training
