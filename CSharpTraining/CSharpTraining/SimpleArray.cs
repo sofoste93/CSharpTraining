@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace CSharpTraining
 {
-	class SimpleArray
+	/*VS doesn't put an access modifier by default
+	 * so make sure to check it
+	 */
+	public class SimpleArray
 	{
 		public string[] GroceryList; // create array
 
