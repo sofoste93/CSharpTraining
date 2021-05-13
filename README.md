@@ -203,3 +203,11 @@ System.ArgumentException: An item with the same key has already been added.
 true
 > 
 >
+> #r "A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.dll"
+> 
+> var test = new CSharpTraining.LoopingCSharp();
+> 
+> test.BreakAndContinue()
+"Bread\r\nEggs\r\n"
+> 
+>
