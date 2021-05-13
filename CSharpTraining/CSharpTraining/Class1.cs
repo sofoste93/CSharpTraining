@@ -8,5 +8,11 @@ namespace CSharpTraining
 {
     public class Class1
     {
+        // a trivial method
+        public int AddTwo(int x, int y)
+		{
+            var addNum = x + y;
+            return addNum;
+		}
     }
 }

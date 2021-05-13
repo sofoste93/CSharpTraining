@@ -4,6 +4,7 @@ using System;
 namespace CSharpTrainingTest
 {
 	/*
+	 * Remember:
 	 * Now there's one last step that we need to perform 
 	 * in order for this to be a working testing project.
 	 * We need to aasociate these two project together so
