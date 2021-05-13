@@ -87,4 +87,19 @@ Learning C# by practicing
 >
 >  multiDim[1,1]
 - 5
->
+> - Generic class
+>  // Managing ordered data with lists;
+> var awesomeSauces = new List<string>();
+> 
+// No need to specify the size - it increases 
+> awesomeSauces.Add("Tobasco");
+> awesomeSauces.Add("Cholula");
+> awesomeSauces.Add("Bolonia");
+> awesomeSauces.Add("Bongo");
+> awesomeSauces.Add("Ndolais");
+> 
+> awesomeSauces[4]
+"Ndolais"
+> awesomeSauces[2]
+"Bolonia"
+> 
