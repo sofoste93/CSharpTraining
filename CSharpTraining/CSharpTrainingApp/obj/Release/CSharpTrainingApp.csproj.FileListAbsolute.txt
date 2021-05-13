@@ -1,0 +1,11 @@
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\bin\Release\NLog.config
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\bin\Release\CSharpTrainingApp.exe.config
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\bin\Release\CSharpTrainingApp.exe
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\bin\Release\CSharpTrainingApp.pdb
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\bin\Release\NLog.dll
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\bin\Release\NLog.xml
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\Release\CSharpTrainingApp.csprojAssemblyReference.cache
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\Release\CSharpTrainingApp.csproj.CoreCompileInputs.cache
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\Release\CSharpTrainingApp.csproj.CopyComplete
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\Release\CSharpTrainingApp.exe
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingApp\obj\Release\CSharpTrainingApp.pdb

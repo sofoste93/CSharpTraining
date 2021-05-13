@@ -1,0 +1,5 @@
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTraining\bin\Release\CSharpTraining.dll
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTraining\bin\Release\CSharpTraining.pdb
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTraining\obj\Release\CSharpTraining.csproj.CoreCompileInputs.cache
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTraining\obj\Release\CSharpTraining.dll
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTraining\obj\Release\CSharpTraining.pdb

@@ -1,0 +1,16 @@
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\bin\Release\CSharpTrainingTest.dll
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\bin\Release\CSharpTrainingTest.pdb
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\bin\Release\CSharpTraining.dll
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\bin\Release\CSharpTraining.pdb
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\obj\Release\CSharpTrainingTest.csprojAssemblyReference.cache
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\obj\Release\CSharpTrainingTest.csproj.CoreCompileInputs.cache
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\obj\Release\CSharpTrainingTest.csproj.CopyComplete
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\obj\Release\CSharpTrainingTest.dll
+A:\Workspace\VisualStudio\CSharpTraining\CSharpTraining\CSharpTrainingTest\obj\Release\CSharpTrainingTest.pdb
