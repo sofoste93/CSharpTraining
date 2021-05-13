@@ -112,3 +112,46 @@ Learning C# by practicing
 . 5
 . listOfNumbers.Where(item => item >= 3)
 . Enumerable.WhereArrayIterator<int> { 3, 5, 7, 9 }
+
+> // Unordered data and dictionaries;
+> 
+> var testList = new List<string>();
+> 
+> testList.Add("C# is a awesome programming language");
+testList#
+(1,9): error CS1040: Präprozessordirektiven müssen das erste Zeichen in einer Zeile sein, das keine Leerstelle ist.
+>
+>  testList[0]
+"C# is a awesome programming language"
+>
+>  var dictionaryWords = new Dictionary<string, string>();
+> 
+> dictionaryWords.Add("var", "shorthand for variable");
+> 
+> dictionaryWords["var"]
+"shorthand for variable"
+> 
+> dictionaryWords.Add("function", "something that does work on data");
+> 
+> dictionaryWords.Add("variable", "a container for data");
+> 
+> dictionaryWords.Count
+3
+> 
+> dictionaryWords.Keys
+Dictionary<string, string>.KeyCollection(3) { "var", "function", "variable" }
+> 
+> dictionaryWords.Add("var", "this is a dupe"); // error expected;
+System.ArgumentException: An item with the same key has already been added.
+  + System.ThrowHelper.ThrowArgumentException(System.ExceptionResource)
+  + Dictionary<TKey, TValue>.Insert(TKey, TValue, bool)
+> 
+> dictionaryWords["function"]
+"something that does work on data"
+> 
+> dictionaryWords[variable]
+(1,17): error CS0103: Der Name "variable" ist im aktuellen Kontext nicht vorhanden.
+> 
+> dictionaryWords["variable"]
+"a container for data"
+> 
